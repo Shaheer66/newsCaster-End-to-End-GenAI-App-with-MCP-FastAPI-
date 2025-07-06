@@ -20,8 +20,8 @@ QUICK START
 
 1. Clone the Dojo
 ```
-git clone https://github.com/AIwithhassan/newsninja.git
-cd NewsNinja
+git clone https://github.com/Shaheer66
+newsCaster-End-to-End-GenAI-App-with-MCP-FastAPI-
 ```
 
 2. Install Dependencies
